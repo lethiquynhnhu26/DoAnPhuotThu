@@ -17,6 +17,9 @@ Quy ước  file map.txt
 - Tìm hiểu và thiết kế giao diện, ráp code, hoàn chỉnh bài làm: Quỳnh Như
 * Tuy là có chia công việc cụ thể nhưng trong quá trình làm các thành viên tích cực thảo luận, hỗ trợ qua lại cho nhau, vì đây là đồ án khá mới mẻ với mọi người.
 
+Link GitHub:
+https://github.com/lethiquynhnhu26/DoAnPhuotThu
+
 Tài liệu tham khảo:
 http://programarcadegames.com/index.php?lang=en&chapter=array_backed_grids
 Bài tập hàng tuần 
